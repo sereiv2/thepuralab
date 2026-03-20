@@ -1,0 +1,11 @@
+{
+  "name": "pura-lab",
+  "version": "1.0.0",
+  "description": "Pura Lab — Trading Platform",
+  "dependencies": {
+    "@vercel/blob": "^0.24.1"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
